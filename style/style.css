@@ -11,3 +11,9 @@ h3{
     padding: 20px;
     border: 2px solid orangered;
 }
+
+img{
+    margin: 20px;
+    width: 50%;
+    height: 300px;
+}
