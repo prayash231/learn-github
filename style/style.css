@@ -1,0 +1,13 @@
+h3{
+    width: 50%;
+    margin: 20px;
+    text-align: center;
+}
+
+.info{
+    background-color: blueviolet;
+    width: 50%;
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid orangered;
+}
